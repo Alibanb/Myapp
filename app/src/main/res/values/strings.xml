@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALI JNR</string>
+    <string name="title_activity_layoutactivity">Layoutactivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_jim">JimActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="title_activity_furniture">FurnitureActivity</string>
+</resources>
